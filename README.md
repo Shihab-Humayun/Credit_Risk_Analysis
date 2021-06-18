@@ -59,6 +59,4 @@ The purpose of this analysis is to oversample the data using the RandomOverSampl
 - Low Risk Recall Scores: 0.94
 
 ## Summary
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-There is a summary of the results
-There is a recommendation on which model to use, or there is no recommendation with a justification
+Out of the all of the models, the Undersampling model is the least accurate. However, the East Ensemble AdaBoost Classifier model would be the best model to use. This model has a high accuracy and recall score.
